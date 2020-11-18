@@ -1,7 +1,5 @@
 # Ansible Role: PHP
 
-[![CI](https://github.com/geerlingguy/ansible-role-php/workflows/CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-role-php/actions?query=workflow%3ACI)
-
 Installs PHP on RedHat/CentOS and Debian/Ubuntu servers.
 
 ## Requirements
