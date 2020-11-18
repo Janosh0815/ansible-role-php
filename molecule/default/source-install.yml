@@ -19,7 +19,7 @@
       changed_when: false
 
   roles:
-    - role: janosh0815.git
+    - role: geerlingguy.git
     - role: janosh0815.php
 
   post_tasks:
